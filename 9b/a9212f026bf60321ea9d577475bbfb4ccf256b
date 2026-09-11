@@ -1,0 +1,20 @@
+README.md
+  s_f11a970e674588::t_0a7f1d7f4a12f1 1-8,13-24,28-46
+  s_f11a970e674588::t_b0afb91694e5a6 9-12,25-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "9ba9212f026bf60321ea9d577475bbfb4ccf256b",
+  "prompts": {},
+  "sessions": {
+    "s_f11a970e674588": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2167430e-ad90-42f6-982f-ef3f06481530",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "vaninberlin <lehongvan307@gmail.com>"
+    }
+  }
+}
